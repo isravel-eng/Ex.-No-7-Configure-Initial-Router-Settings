@@ -1,5 +1,5 @@
 ## Ex. No: 7 – Configure Initial Router Settings
-# Date: ___________
+# Date: 24-11-2026
 ________________________________________
 # Objective
 To perform basic router configuration tasks in Cisco Packet Tracer including:<br>
@@ -16,6 +16,9 @@ ________________________________________<br>
 •	Console cable (RS-232 to Console)<br>
 ________________________________________<br>
 # Network Topology Diagram
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/24ce31fa-2362-422b-84a1-ec45a0fef2b9" />
+
 (Insert your Packet Tracer screenshot here showing Router R1 and PC with console connection)
 ________________________________________
 # Procedure
@@ -79,10 +82,33 @@ ________________________________________
 •	To save configuration: copy running-config startup-config, wr, copy startup-config flash<br>
 ________________________________________
 # Output (Attach Screenshots)
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/24ce31fa-2362-422b-84a1-ec45a0fef2b9" />
+
 •	Console connection to router<br>
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bf8faf34-0944-4e2b-950e-ca26fcb76aa6" />
+
+Before
+
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/b774ad10-eba7-4a13-88cd-c58ae294ebf3" />
+After
+
 •	Running configuration before and after<br>
+
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/860e320b-f098-4714-92a9-46ac887018f6" />
+
+
 •	MOTD banner display<br>
+
+<img width="1915" height="1065" alt="image" src="https://github.com/user-attachments/assets/db918611-430c-4286-9f70-b238b14526db" />
+
+
 •	Password prompts<br>
+
+<img width="1917" height="1066" alt="image" src="https://github.com/user-attachments/assets/9dece9cb-ece9-4acb-a169-9add959fba2e" />
+
+
 •	Saved configuration in NVRAM and flash<br>
 ________________________________________
 # Result
